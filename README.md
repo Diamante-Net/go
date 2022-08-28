@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://diamnet.org"><img alt="Diamnet" src="https://github.com/diamnet/.github/raw/master/diamnet-logo.png" width="558" /></a>
+<a href="#"><img alt="Diamnet" src="https://avatars.githubusercontent.com/u/112297962?v=4" width="258" /></a>
 <br/>
 <strong>Creating equitable access to the global financial system</strong>
 <h1>Diamnet Go Monorepo</h1>
